@@ -1,0 +1,7 @@
+{
+  "name": "movie-app-with-ionic-storage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
